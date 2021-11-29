@@ -7,6 +7,11 @@ def ahoj():
 def nazdar():
     pass
 
-if __name__ == '__main__':
+
+def loginUser(email, password):
+    # TODO: heslo musi mit cisla
     pass
 
+
+if __name__ == '__main__':
+    pass
